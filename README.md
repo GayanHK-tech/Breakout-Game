@@ -30,10 +30,8 @@ A fun and interactive game built using **C#** with engaging gameplay and smooth 
 
 ---
 
-
-
 ## 📌 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-game-repo.git
+   git clone https://github.com/GayanHK-tech/Breakout-Game.git
