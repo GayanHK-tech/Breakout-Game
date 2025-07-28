@@ -1,0 +1,16 @@
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.Breakout_Game.resources
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.csproj.GenerateResource.cache
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.AssemblyInfoInputs.cache
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.AssemblyInfo.cs
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.csproj.CoreCompileInputs.cache
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\bin\Debug\net6.0-windows\Breakout_Game.exe
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\bin\Debug\net6.0-windows\Breakout_Game.deps.json
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\bin\Debug\net6.0-windows\Breakout_Game.runtimeconfig.json
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\bin\Debug\net6.0-windows\Breakout_Game.dll
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\bin\Debug\net6.0-windows\Breakout_Game.pdb
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.dll
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\refint\Breakout_Game.dll
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.pdb
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\Breakout_Game.genruntimeconfig.cache
+C:\Users\Gayan\Desktop\Game\Breakout Game\Breakout_Game\obj\Debug\net6.0-windows\ref\Breakout_Game.dll
